@@ -1,10 +1,11 @@
 {
   "name": "myapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "experiment",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "d3": "5.9.2",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.0.3"
